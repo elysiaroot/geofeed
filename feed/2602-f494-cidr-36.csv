@@ -1,0 +1,34 @@
+# Date updated GMT+0900:2026-01-06 00:00
+#######################
+## USA
+## https://www.iso.org/obp/ui/#iso:code:3166:US
+#######################
+# New York
+2602:f494::/48,US,US-NY,"New York",
+#
+#
+#
+#
+#
+#######################
+## Japan
+## https://www.iso.org/obp/ui/#iso:code:3166:JP
+#######################
+# Tokyo
+2602:f494:1::/48,JP,JP-13,"Tokyo",
+#
+#
+#
+#
+#
+#######################
+## Rep of, Korea
+## https://www.iso.org/obp/ui/#iso:code:3166:KR
+#######################
+# Incheon-gwangyeoksi
+2602:f494:2::/48,KR,KR-28,"Incheon",
+#
+#
+#
+#
+#
