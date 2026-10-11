@@ -53,7 +53,11 @@ function getFeeds(): array
                 'CODE' => 'US',
                 'DATA' => [
                     'Kansas' => [
+                        // Elysia Root L.C.
                         ['CIDR' => '69.36.44.0/24',   'COUNTRY_CODE' => 'US', 'STATE_CODE' => 'US-KS'],
+
+                        // YUKI Network LTD
+                        ['CIDR' => '69.36.47.0/24',   'COUNTRY_CODE' => 'US', 'STATE_CODE' => 'US-KS'],
                     ],
                 ],
             ],
@@ -63,6 +67,7 @@ function getFeeds(): array
                 'CODE' => 'CA',
                 'DATA' => [
                     'Quebec' => [
+                        // Elysia Root L.C.
                         ['CIDR' => '69.36.45.0/24', 'COUNTRY_CODE' => 'CA', 'STATE_CODE' => 'CA-QC'],
                     ],
                 ],
@@ -73,6 +78,7 @@ function getFeeds(): array
                 'CODE' => 'JP',
                 'DATA' => [
                     'Tokyo' => [
+                        // Elysia Root L.C.
                         ['CIDR' => '69.36.46.0/24', 'COUNTRY_CODE' => 'JP', 'STATE_CODE' => 'JP-13'],
                     ],
                 ],
