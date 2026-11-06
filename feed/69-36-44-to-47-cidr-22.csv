@@ -1,4 +1,4 @@
-# Date updated UTC:2026-10-11 04:06
+# Date updated UTC:2026-11-06 17:21
 # 69-36-44-to-47-cidr-22.csv
 #######################
 # USA
@@ -18,17 +18,7 @@
 #######################
 # Quebec, CANADA
 69.36.45.0/24,CA,CA-QC,"Quebec"
-#
-#
-#
-#
-#
-#######################
-# JAPAN
-# https://www.iso.org/obp/ui/#iso:code:3166:JP
-#######################
-# Tokyo, JAPAN
-69.36.46.0/24,JP,JP-13,"Tokyo"
+69.36.46.0/24,CA,CA-QC,"Quebec"
 #
 #
 #

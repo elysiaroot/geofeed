@@ -69,17 +69,9 @@ function getFeeds(): array
                     'Quebec' => [
                         // Elysia Root L.C.
                         ['CIDR' => '69.36.45.0/24', 'COUNTRY_CODE' => 'CA', 'STATE_CODE' => 'CA-QC'],
-                    ],
-                ],
-            ],
 
-            // Japan / 日本
-            'JAPAN' => [
-                'CODE' => 'JP',
-                'DATA' => [
-                    'Tokyo' => [
                         // Elysia Root L.C.
-                        ['CIDR' => '69.36.46.0/24', 'COUNTRY_CODE' => 'JP', 'STATE_CODE' => 'JP-13'],
+                        ['CIDR' => '69.36.46.0/24', 'COUNTRY_CODE' => 'CA', 'STATE_CODE' => 'CA-QC'],
                     ],
                 ],
             ],
