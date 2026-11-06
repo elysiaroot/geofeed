@@ -1,11 +1,11 @@
-# Date updated UTC:2026-11-06 17:21
+# Date updated UTC:2026-11-06 18:11
 # 69-36-44-to-47-cidr-22.csv
 #######################
 # USA
 # https://www.iso.org/obp/ui/#iso:code:3166:US
 #######################
 # Kansas, USA
-69.36.44.0/24,US,US-KS,"Kansas"
+69.36.45.0/24,US,US-KS,"Kansas"
 69.36.47.0/24,US,US-KS,"Kansas"
 #
 #
@@ -17,7 +17,7 @@
 # https://www.iso.org/obp/ui/#iso:code:3166:CA
 #######################
 # Quebec, CANADA
-69.36.45.0/24,CA,CA-QC,"Quebec"
+69.36.44.0/24,CA,CA-QC,"Quebec"
 69.36.46.0/24,CA,CA-QC,"Quebec"
 #
 #
